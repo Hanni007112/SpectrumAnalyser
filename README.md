@@ -18,6 +18,7 @@ todo: demo video
 ## Circuit
 I've used the MSGEQ7, chip because i ran into performance issue whilst using the FFT method.
 
-todo: embed diagram
+![circuit diagram](/doc/Circuit%20Diagram.png)
+
 
 ## Code
