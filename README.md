@@ -3,7 +3,7 @@ A Arduino based spectrum analyser. outputs to a LED matrix
 
 ## Demo
 
-todo: demo video
+[Demo Video](https://youtu.be/UyyZbMvOpg8)
 
 ## Controlls
 - Switch: On/Off
@@ -20,5 +20,6 @@ I've used the MSGEQ7, chip because i ran into performance issue whilst using the
 
 ![circuit diagram](/doc/Circuit%20Diagram.png)
 
+![led diagram](/doc/LED%20Diagram.png)
 
 ## Code
