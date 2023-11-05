@@ -55,6 +55,7 @@ int curState = 0;
 
 #define naturalLigh_state 1
 double whitePercent = 0;
+//todo: refactor to enum
 
 #define solidColor_state 2
 int hue = 0;
